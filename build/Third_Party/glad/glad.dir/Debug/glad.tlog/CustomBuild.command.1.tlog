@@ -1,0 +1,10 @@
+^E:\GRAPHICSLAB\3DGS_RENDERER\THIRD_PARTY\GLAD\CMAKELISTS.TXT
+setlocal
+D:\Tools\Cmake\bin\cmake.exe -SE:/GraphicsLab/3DGS_Renderer -BE:/GraphicsLab/3DGS_Renderer/build --check-stamp-file E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glad/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

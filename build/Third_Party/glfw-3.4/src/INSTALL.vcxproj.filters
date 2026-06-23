@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GraphicsLab\3DGS_Renderer\build\CMakeFiles\d578840c3ad94859c9f1793890c8ea3b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9313D225-CD8E-38DA-AABC-B2C5253A8415}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

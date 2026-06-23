@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/GraphicsLab/3DGS_Renderer/build/cmake_install.cmake",
+		"E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glm-master/cmake_install.cmake",
+		"E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glm-master/glm/cmake_install.cmake",
+		"E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glfw-3.4/cmake_install.cmake",
+		"E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glfw-3.4/src/cmake_install.cmake",
+		"E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glfw-3.4/docs/cmake_install.cmake",
+		"E:/GraphicsLab/3DGS_Renderer/build/Third_Party/glad/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

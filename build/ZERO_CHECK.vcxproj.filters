@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GraphicsLab\3DGS_Renderer\build\CMakeFiles\71f2614ffddb3854dbd9975af2461b84\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9313D225-CD8E-38DA-AABC-B2C5253A8415}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

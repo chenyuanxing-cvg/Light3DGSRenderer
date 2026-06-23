@@ -1,0 +1,10 @@
+^E:\GRAPHICSLAB\3DGS_RENDERER\BUILD\CMAKEFILES\71F2614FFDDB3854DBD9975AF2461B84\GENERATE.STAMP.RULE
+setlocal
+D:\Tools\Cmake\bin\cmake.exe -SE:/GraphicsLab/3DGS_Renderer -BE:/GraphicsLab/3DGS_Renderer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/GraphicsLab/3DGS_Renderer/build/Renderer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

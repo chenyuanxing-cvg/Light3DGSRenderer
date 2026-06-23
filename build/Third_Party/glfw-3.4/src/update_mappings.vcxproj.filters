@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GraphicsLab\3DGS_Renderer\build\CMakeFiles\d578840c3ad94859c9f1793890c8ea3b\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\GraphicsLab\3DGS_Renderer\Third_Party\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\GraphicsLab\3DGS_Renderer\Third_Party\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\GraphicsLab\3DGS_Renderer\Third_Party\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="E:\GraphicsLab\3DGS_Renderer\build\Third_Party\glfw-3.4\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9313D225-CD8E-38DA-AABC-B2C5253A8415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4D7B1B8E-7571-3326-BCD8-E6BE6CB09AF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
